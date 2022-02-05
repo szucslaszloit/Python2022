@@ -1,5 +1,9 @@
 '''
 
+Learn Python coding 2022
+Szucs Laszlo
+
+
 Ez egy komment.
 
 Meg ez is.
